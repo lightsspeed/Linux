@@ -17,3 +17,4 @@ SIGKILL
 fstab
 firewall -- done
 crontab
+nice/renice
