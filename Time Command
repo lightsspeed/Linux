@@ -1,0 +1,36 @@
+Time Command
+Time taken to complete the task perform by the command(can be any command for eg. ls or wget)
+
+time ls
+o/p will be of ls and will show the time with 3 types/
+real time(imp) - means real time took to perform the command
+user time - time taken by the command when performed by any specific user.
+sys time - when commands are performed at kernel level
+
+
+time sudo apt dist-upgrade
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Calculating upgrade... Done
+Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
+  libcjson1 libpostproc57 libavcodec60 libavutil58 libswscale7 libswresample4
+  libavformat60 libavfilter9
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following upgrades have been deferred due to phasing:
+  apparmor file-roller libapparmor1 python3-distupgrade ubuntu-pro-client
+  ubuntu-pro-client-l10n ubuntu-release-upgrader-core ubuntu-release-upgrader-gtk
+  ubuntu-settings
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+
+real	0m0.433s
+user	0m0.006s
+sys	0m0.008s
+
+
+/usr/bin/time -o output.txt ls
+aliases.txt  Desktop	Downloads  Music       Pictures  Public  system_info  venv
+aws	     Documents	kubectl    output.txt  project	 snap	 Templates    Videos
+
+
+
