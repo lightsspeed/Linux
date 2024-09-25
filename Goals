@@ -1,8 +1,8 @@
 Swap memory -- done
-bin folder
-var folder
-logging 
-etc folder
+bin folder -- done
+var folder -- done
+logging -- done
+etc folder -- done
 lsof -- done
 memory in linux -- done
 journalctl -- done
