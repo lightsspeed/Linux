@@ -6,10 +6,10 @@ etc folder
 lsof -- done
 memory in linux -- done
 journalctl -- done
-top & HTOP
-Free
-traceroute
-ufw
+top & HTOP -- done
+Free -- done
+traceroute -- done
+ufw -- done
 kernal related troubleshooting
 GRUB
 SIGTERM
