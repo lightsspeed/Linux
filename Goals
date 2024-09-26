@@ -18,3 +18,4 @@ fstab
 firewall -- done
 crontab
 nice/renice
+tmux
