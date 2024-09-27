@@ -12,11 +12,11 @@ traceroute -- done
 ufw -- done
 kernal related troubleshooting
 GRUB
-SIGTERM
-SIGKILL
+SIGTERM -- done
+SIGKILL -- done
 fstab
 firewall -- done
 crontab
-nice/renice
+nice/renice -- done
 tmux
 zombie process
