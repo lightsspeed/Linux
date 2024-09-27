@@ -18,5 +18,5 @@ fstab
 firewall -- done
 crontab
 nice/renice -- done
-tmux
+tmux -- done
 zombie process
