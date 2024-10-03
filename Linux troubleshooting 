@@ -1,0 +1,93 @@
+	1. How to set a username and password to never expires
+	2. Why /etc/passwd and etc/shadow file cannot be merged into 1file.
+	3. To list all the files opened by PID
+	4. We are unable to unmount the file system, what are the reasons
+	5. What could be the reason if the server take more time after reboot
+	6. We are trying to create the file under any partition but we are getting permission denied alert. There is no space issue and no permission issue? Inode issue.
+	7. How to check kernel routing table info
+	8. How set sticky bit and what is the difference b/w small s and capital s
+	9. Which file is used to specify default gateway.
+	10. What is run level in Linux?
+	11. What is NFS? How to configure ? What port no.?
+	12. What is NICE value and how to set nice value for particular process?
+	13. What is the FTP and TFTP and its difference?
+	14. How to extend the file system in Linux?
+	15. How will you rollback the packages after patching?
+	16. What is rsync and what is the syntax also same for scp? What is the diff b/w rsync and scp.
+	17. How to reduce the file system in Linux ? FS Reduction can be happened online or not?
+	18. Uptime command shows load average of the system. But we can see total 3 values of load average. What is the meaning of values.
+	19. How to set the numbering of lines of file by using vi editor.
+	20. What is the editor a cloud engineer should use. VIM or NANO?
+	21. How to scan the disk in Linux?
+	22. /etc/fstab file is having how many fields and describe the meaning of each field?
+	23. What is soft link and hard link what is the difference and how to create it.
+	24. Can we create softlink across the partition?
+	25. What is the location of NFS SHARED INFO?
+	26. How to check if any particular port is listening or not?
+	27. What is the df and du and its difference. How it is going to help in troubleshooting.
+	28. What is journaling what are pros and cons? How it is going to help in troubleshooting.
+	29. While doing patching suppose one package is not allowing to patch. Which command would you execute and how will you troubleshoot.
+	30. What is the booting process of Linux
+	31. What is the meaning of pcpu and jcpu in w command.?
+	32. What happens when you hit url ?
+	33. What is package manager and what is RPM and YUM and APT?
+	34. What is ACL? How to set ACL ?
+	35. What is I-NODE?
+	36. Can we schedule 2sec in crontab?
+	37. In prod env, if any server rebooted automatically ? How will you troubleshoot that server and what will be the troubleshooting steps to follow.?
+	38. How to extract a single file from tar archive.?
+	39. Which command is used to see the memory?
+	40. Architecture of linux server?
+	41. Search text within multiple files.?
+	42. How to delete logs which is 30 days older? Atime, mtime, ctime?
+	43. User is running ls –l command but not getting any o/p?
+	44. What is the run queue and which command used to check run queue?
+	45. Which file is use to change default run level? What happens when you change default run level to 6.
+	46. What is difference between update and upgrade?
+	47. How to upgrade and downgrade a package?
+	48. What is the filesystem in Linux and windows?
+	49. How to remove duplicate packages?
+	50. What is TCP and UDP and what is the difference?
+	51. What is tar and gz commands
+	52. What is telnet command? User is trying to do a telnet to other server, but its getting timeout error.?
+	53. What is RAID and how to create RAID 3?
+	54. What is SWAP partition and can we build a server w/o creating a swap partition? If yes what is the pros and cons and what is the best practices.?
+	55. Df command says your /opt is full but you have delete 10 gb of log files recently? What could be the reasons?
+	56. Why we use IP instead MAC address?
+	57. What is incremental and diff backup
+	58. How to check open files and process id?
+	59. How to find out port number used by deamon
+	60. How to troubleshooting I/o related issues?
+	61. How to kill a process using top-command?
+	62. How to find a PID and process detail ?
+	63. How to terminate a process using a signal?
+	64. How to troubleshoot network issue?
+	65. How to capture network traffic coming from tcp 443?
+	66. How to diagnose performance issue with storage devices?
+	67. How to display a disk I/o stats?
+	68. How to display cpu stats?
+	69. If a program is not starting due to dependencies not available?
+	70. How to show stats of all protocols?
+	71. What is the purpose of the fdisk command
+	72. How to detect new hard disk attached w/o rebooting
+	73. What is primary and logical partitions and what is the difference?
+	74. How to format a partition with ext4 with mkfs command?
+	75. What is the purpose mount command?
+	76. How can you make the partition automatically mounted during the reboot?
+	77. Purpose of df command
+	78. How can you resize existing partition?
+	79. How can you check the file system integrity of a partition in Linux?
+	80. Who is superuser, system user and normal user
+	81. Which user detail and passwd detail stored?
+	82. How can add, delete and modify user? How to change user default shell how to delete a user with its default directory?
+	83. How do you lock and unlock user
+	84. What is the chage command?
+	85. What is the purpose of /etc/login.defs
+	86. What to grant normal user sudo access? Temporarily and permanently
+	87. Groups and id commands?
+	88. What is LVM? Purpose ? How to use it? What are the components of LVM
+	89. Explain creating a volume group
+	90. Explain logical volume and how to create. VIDEO 11 regarding LVM
+	91. VIDEO 12 – Special perm and ACL
+	92. VIDEO 13 – Network Troubleshooting
+
