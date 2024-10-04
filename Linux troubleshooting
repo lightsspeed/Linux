@@ -1,25 +1,25 @@
-	1. How to set a username and password to never expires
-	2. Why /etc/passwd and etc/shadow file cannot be merged into 1file.
-	3. To list all the files opened by PID
-	4. We are unable to unmount the file system, what are the reasons
-	5. What could be the reason if the server take more time after reboot
-	6. We are trying to create the file under any partition but we are getting permission denied alert. There is no space issue and no permission issue? Inode issue.
-	7. How to check kernel routing table info
-	8. How set sticky bit and what is the difference b/w small s and capital s
-	9. Which file is used to specify default gateway.
-	10. What is run level in Linux?
-	11. What is NFS? How to configure ? What port no.?
-	12. What is NICE value and how to set nice value for particular process?
-	13. What is the FTP and TFTP and its difference?
-	14. How to extend the file system in Linux?
-	15. How will you rollback the packages after patching?
-	16. What is rsync and what is the syntax also same for scp? What is the diff b/w rsync and scp.
-	17. How to reduce the file system in Linux ? FS Reduction can be happened online or not?
-	18. Uptime command shows load average of the system. But we can see total 3 values of load average. What is the meaning of values.
-	19. How to set the numbering of lines of file by using vi editor.
-	20. What is the editor a cloud engineer should use. VIM or NANO?
-	21. How to scan the disk in Linux?
-	22. /etc/fstab file is having how many fields and describe the meaning of each field?
+	1. How to set a username and password to never expires --done
+	2. Why /etc/passwd and etc/shadow file cannot be merged into 1file. --done
+	3. To list all the files opened by PID --done
+	4. We are unable to unmount the file system, what are the reasons --done
+	5. What could be the reason if the server take more time after reboot --done
+	6. We are trying to create the file under any partition but we are getting permission denied alert. There is no space issue and no permission issue? Inode issue. --done
+	7. How to check kernel routing table info --done
+	8. How set sticky bit and what is the difference b/w small s and capital s --done
+	9. Which file is used to specify default gateway. --done
+	10. What is run level in Linux? --done
+	11. What is NFS? How to configure ? What port no.? --done
+	12. What is NICE value and how to set nice value for particular process? --done
+	13. What is the FTP and TFTP and its difference? --done
+	14. How to extend the file system in Linux? --done
+	15. How will you rollback the packages after patching? --done
+	16. What is rsync and what is the syntax also same for scp? What is the diff b/w rsync and scp. --done
+	17. How to reduce the file system in Linux ? FS Reduction can be happened online or not? --done
+	18. Uptime command shows load average of the system. But we can see total 3 values of load average. What is the meaning of values. --done
+	19. How to set the numbering of lines of file by using vi editor. --done
+	20. What is the editor a cloud engineer should use. VIM or NANO? --done
+	21. How to scan the disk in Linux? --done
+	22. /etc/fstab file is having how many fields and describe the meaning of each field? --done
 	23. What is soft link and hard link what is the difference and how to create it.
 	24. Can we create softlink across the partition?
 	25. What is the location of NFS SHARED INFO?
