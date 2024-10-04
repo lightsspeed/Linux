@@ -14,22 +14,22 @@
 	14. How to extend the file system in Linux? --done
 	15. How will you rollback the packages after patching? --done
 	16. What is rsync and what is the syntax also same for scp? What is the diff b/w rsync and scp. --done
-	17. How to reduce the file system in Linux ? FS Reduction can be happened online or not? --done
+	17. How to reduce the file system in Linux ? FS Reduction can be happened online or not? --done/
 	18. Uptime command shows load average of the system. But we can see total 3 values of load average. What is the meaning of values. --done
 	19. How to set the numbering of lines of file by using vi editor. --done
 	20. What is the editor a cloud engineer should use. VIM or NANO? --done
 	21. How to scan the disk in Linux? --done
 	22. /etc/fstab file is having how many fields and describe the meaning of each field? --done
-	23. What is soft link and hard link what is the difference and how to create it.
-	24. Can we create softlink across the partition?
+	23. What is soft link and hard link what is the difference and how to create it. -- done
+	24. Can we create softlink across the partition? --done
 	25. What is the location of NFS SHARED INFO?
-	26. How to check if any particular port is listening or not?
-	27. What is the df and du and its difference. How it is going to help in troubleshooting.
-	28. What is journaling what are pros and cons? How it is going to help in troubleshooting.
+	26. How to check if any particular port is listening or not? --done
+	27. What is the df and du and its difference. How it is going to help in troubleshooting. --done
+	28. What is journaling what are pros and cons? How it is going to help in troubleshooting. --done
 	29. While doing patching suppose one package is not allowing to patch. Which command would you execute and how will you troubleshoot.
 	30. What is the booting process of Linux
-	31. What is the meaning of pcpu and jcpu in w command.?
-	32. What happens when you hit url ?
+	31. What is the meaning of pcpu and jcpu in w command.? --done
+	32. What happens when you hit url ? --done
 	33. What is package manager and what is RPM and YUM and APT?
 	34. What is ACL? How to set ACL ?
 	35. What is I-NODE?
